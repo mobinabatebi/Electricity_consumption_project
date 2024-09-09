@@ -1,4 +1,2 @@
-## پروژه تخمین مصرف برق ادارات (و اثرات آنها در قطعی برق) و ارائه راهکار برای حل مشکل قطعی برق در تابستان
+The project aimed at estimating electricity consumption in government offices and its subsequent impact on power outages is of critical significance, particularly during the summer months. As energy demands peak in warmer temperatures, understanding the consumption patterns of administrative entities becomes essential for effective load management. The project seeks to analyze historical usage data, identify peak consumption periods, and evaluate the correlation between institutional energy use and the frequency of power disruptions. Furthermore, the proposal outlines actionable solutions to mitigate the challenges posed by electricity shortages. The project aspires to contribute to a sustainable energy strategy that ensures reliable power supply for governmental operations during peak demand periods.
 
-### پروژه درس مبانی برنامه نویسی دانشکده صنایع دانشگاه صنعتی شریف - سال 1400
-### استاد درس : مهندس علیرضا کدیور
